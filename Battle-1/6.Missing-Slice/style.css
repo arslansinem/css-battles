@@ -1,0 +1,24 @@
+body{
+    background: #E3516E;
+    margin: 0px;
+  }
+  
+  div {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    background: #51B5A9;
+    border-radius: 100% 0% 0% 0%
+  }
+  .two{
+    background: #FADE8B;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 200px;
+  }
+  .three{
+    background:#F7F3D7;
+    transform: rotate(270deg);
+  }

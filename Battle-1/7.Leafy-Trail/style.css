@@ -1,0 +1,27 @@
+body{
+    background: #0B2429;
+    margin:0px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  div{
+    width: 150px;
+    height:150px;
+    background:#998235;
+    border-radius: 67% 0% 67% 0%;
+    position:absolute;
+    top: 100px;
+  }
+  .a{
+    left: 125px;
+  }
+  .b {
+    background: #F3AC3C;
+    left: 175px;
+  }
+  .c {
+    background:#1A4341;
+    left: 75px;
+    z-index: -1;
+  }
